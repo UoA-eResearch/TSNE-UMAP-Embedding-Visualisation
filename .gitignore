@@ -1,2 +1,4 @@
 data
 .venv
+*.pdb
+.ipynb_checkpoints
