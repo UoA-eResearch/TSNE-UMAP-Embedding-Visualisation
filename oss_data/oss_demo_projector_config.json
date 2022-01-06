@@ -4,6 +4,7 @@
       "tensorName": "D2019.11.29_S00522_I3171_P",
       "tensorShape": [1000, 2048],
       "tensorPath": "oss_data/tensor.bytes",
+      "metadataPath": "oss_data/metadata.tsv",
       "sprite": {
         "imagePath": "oss_data/sprites.png",
         "singleImageDim": [100, 100]
